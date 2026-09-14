@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/maverick/proprietary/vendor/bin/hw/android.hardware.wifi@1.0-service-lazy-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.wifi@1.0-service-lazy-mediatek \
     vendor/amazon/maverick/proprietary/vendor/bin/hw/camerahalserver:$(TARGET_COPY_OUT_VENDOR)/bin/hw/camerahalserver \
     vendor/amazon/maverick/proprietary/vendor/bin/hw/fireos.hardware.amazonthermal@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/fireos.hardware.amazonthermal@1.0-service \
-    vendor/amazon/maverick/proprietary/vendor/bin/hw/fireos.hardware.audio@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/fireos.hardware.audio@2.0-service \
     vendor/amazon/maverick/proprietary/vendor/bin/hw/fireos.hardware.fireosdha@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/fireos.hardware.fireosdha@2.0-service \
     vendor/amazon/maverick/proprietary/vendor/bin/hw/fireos.hardware.idme@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/fireos.hardware.idme@1.0-service \
     vendor/amazon/maverick/proprietary/vendor/bin/hw/hostapd:$(TARGET_COPY_OUT_VENDOR)/bin/hw/hostapd \
@@ -177,7 +176,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/maverick/proprietary/vendor/etc/init/btmac.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/btmac.rc \
     vendor/amazon/maverick/proprietary/vendor/etc/init/camerahalserver.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/camerahalserver.rc \
     vendor/amazon/maverick/proprietary/vendor/etc/init/fireos.hardware.amazonthermal@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fireos.hardware.amazonthermal@1.0-service.rc \
-    vendor/amazon/maverick/proprietary/vendor/etc/init/fireos.hardware.audio@2.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fireos.hardware.audio@2.0-service.rc \
     vendor/amazon/maverick/proprietary/vendor/etc/init/fireos.hardware.fireosdha@2.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fireos.hardware.fireosdha@2.0-service.rc \
     vendor/amazon/maverick/proprietary/vendor/etc/init/fireos.hardware.idme@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fireos.hardware.idme@1.0-service.rc \
     vendor/amazon/maverick/proprietary/vendor/etc/init/fuelgauged_init.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fuelgauged_init.rc \
